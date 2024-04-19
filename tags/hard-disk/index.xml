@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hard Disk on 看山有色 听水无声</title><link>https://ukiyoesoragoto.com/tags/hard-disk/</link><description>Recent content in Hard Disk on 看山有色 听水无声</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 23 Nov 2016 15:52:27 +0000</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/tags/hard-disk/index.xml" rel="self" type="application/rss+xml"/><item><title>Add new Hard Disk to Linux</title><link>https://ukiyoesoragoto.com/posts/2016/20161123-add-new-hard-disk-to-linux/</link><pubDate>Wed, 23 Nov 2016 15:52:27 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2016/20161123-add-new-hard-disk-to-linux/</guid><description>Add new Hard Disk to Linux Conver to GTP, format disk and mount disk</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hard Disk on 看山有色 听水无声</title>
+    <link>https://ukiyoesoragoto.com/tags/hard-disk/</link>
+    <description>Recent content in Hard Disk on 看山有色 听水无声</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 浮世絵空事</copyright>
+    <lastBuildDate>Wed, 23 Nov 2016 15:52:27 +0000</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/tags/hard-disk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Add new Hard Disk to Linux</title>
+      <link>https://ukiyoesoragoto.com/posts/2016/20161123-add-new-hard-disk-to-linux/</link>
+      <pubDate>Wed, 23 Nov 2016 15:52:27 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2016/20161123-add-new-hard-disk-to-linux/</guid>
+      <description>Add new Hard Disk to Linux Conver to GTP, format disk and mount disk</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,282 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on 看山有色 听水无声</title><link>https://ukiyoesoragoto.com/tags/</link><description>Recent content in Tags on 看山有色 听水无声</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 25 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Django</title><link>https://ukiyoesoragoto.com/tags/django/</link><pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/django/</guid><description/></item><item><title>WeChat</title><link>https://ukiyoesoragoto.com/tags/wechat/</link><pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/wechat/</guid><description/></item><item><title>css</title><link>https://ukiyoesoragoto.com/tags/css/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/css/</guid><description/></item><item><title>html</title><link>https://ukiyoesoragoto.com/tags/html/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/html/</guid><description/></item><item><title>markdown</title><link>https://ukiyoesoragoto.com/tags/markdown/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/markdown/</guid><description/></item><item><title>sample</title><link>https://ukiyoesoragoto.com/tags/sample/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/sample/</guid><description/></item><item><title>.Net</title><link>https://ukiyoesoragoto.com/tags/.net/</link><pubDate>Fri, 07 Apr 2017 15:49:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/.net/</guid><description/></item><item><title>C#</title><link>https://ukiyoesoragoto.com/tags/c#/</link><pubDate>Fri, 07 Apr 2017 15:49:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/c#/</guid><description/></item><item><title>perl</title><link>https://ukiyoesoragoto.com/tags/perl/</link><pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/perl/</guid><description/></item><item><title>C</title><link>https://ukiyoesoragoto.com/tags/c/</link><pubDate>Fri, 24 Mar 2017 20:08:04 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/c/</guid><description/></item><item><title>Windows</title><link>https://ukiyoesoragoto.com/tags/windows/</link><pubDate>Fri, 24 Mar 2017 20:08:04 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/windows/</guid><description/></item><item><title>WPF</title><link>https://ukiyoesoragoto.com/tags/wpf/</link><pubDate>Thu, 16 Feb 2017 14:02:25 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/wpf/</guid><description/></item><item><title>Hard Disk</title><link>https://ukiyoesoragoto.com/tags/hard-disk/</link><pubDate>Wed, 23 Nov 2016 15:52:27 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/hard-disk/</guid><description/></item><item><title>Linux</title><link>https://ukiyoesoragoto.com/tags/linux/</link><pubDate>Wed, 23 Nov 2016 15:52:27 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/linux/</guid><description/></item><item><title>Google</title><link>https://ukiyoesoragoto.com/tags/google/</link><pubDate>Wed, 09 Nov 2016 16:48:03 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/google/</guid><description/></item><item><title>Cocos2d-x</title><link>https://ukiyoesoragoto.com/tags/cocos2d-x/</link><pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/cocos2d-x/</guid><description/></item><item><title>CPP</title><link>https://ukiyoesoragoto.com/tags/cpp/</link><pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/cpp/</guid><description/></item><item><title>Ubuntu</title><link>https://ukiyoesoragoto.com/tags/ubuntu/</link><pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/ubuntu/</guid><description/></item><item><title>Debian</title><link>https://ukiyoesoragoto.com/tags/debian/</link><pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/debian/</guid><description/></item><item><title>NGINX</title><link>https://ukiyoesoragoto.com/tags/nginx/</link><pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/nginx/</guid><description/></item><item><title>uWSGI</title><link>https://ukiyoesoragoto.com/tags/uwsgi/</link><pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/tags/uwsgi/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 看山有色 听水无声</title>
+    <link>https://ukiyoesoragoto.com/tags/</link>
+    <description>Recent content in Tags on 看山有色 听水无声</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 浮世絵空事</copyright>
+    <lastBuildDate>Mon, 23 Oct 2023 01:00:00 +0800</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIGC</title>
+      <link>https://ukiyoesoragoto.com/tags/aigc/</link>
+      <pubDate>Mon, 23 Oct 2023 01:00:00 +0800</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/aigc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://ukiyoesoragoto.com/tags/c&#43;&#43;/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/c&#43;&#43;/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Conda</title>
+      <link>https://ukiyoesoragoto.com/tags/conda/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/conda/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://ukiyoesoragoto.com/tags/git/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/git/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Microsoft</title>
+      <link>https://ukiyoesoragoto.com/tags/microsoft/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/microsoft/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://ukiyoesoragoto.com/tags/python/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>赛博胎教</title>
+      <link>https://ukiyoesoragoto.com/tags/%E8%B5%9B%E5%8D%9A%E8%83%8E%E6%95%99/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/%E8%B5%9B%E5%8D%9A%E8%83%8E%E6%95%99/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>https://ukiyoesoragoto.com/tags/django/</link>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/django/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>WeChat</title>
+      <link>https://ukiyoesoragoto.com/tags/wechat/</link>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/wechat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Css</title>
+      <link>https://ukiyoesoragoto.com/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/css/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Html</title>
+      <link>https://ukiyoesoragoto.com/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/html/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://ukiyoesoragoto.com/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/markdown/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sample</title>
+      <link>https://ukiyoesoragoto.com/tags/sample/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/sample/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>.Net</title>
+      <link>https://ukiyoesoragoto.com/tags/.net/</link>
+      <pubDate>Fri, 07 Apr 2017 15:49:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/.net/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>https://ukiyoesoragoto.com/tags/c</link>
+      <pubDate>Fri, 07 Apr 2017 15:49:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/c</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Perl</title>
+      <link>https://ukiyoesoragoto.com/tags/perl/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/perl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>https://ukiyoesoragoto.com/tags/c/</link>
+      <pubDate>Fri, 24 Mar 2017 20:08:04 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/c/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://ukiyoesoragoto.com/tags/windows/</link>
+      <pubDate>Fri, 24 Mar 2017 20:08:04 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/windows/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>WPF</title>
+      <link>https://ukiyoesoragoto.com/tags/wpf/</link>
+      <pubDate>Thu, 16 Feb 2017 14:02:25 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/wpf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hard Disk</title>
+      <link>https://ukiyoesoragoto.com/tags/hard-disk/</link>
+      <pubDate>Wed, 23 Nov 2016 15:52:27 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/hard-disk/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://ukiyoesoragoto.com/tags/linux/</link>
+      <pubDate>Wed, 23 Nov 2016 15:52:27 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>https://ukiyoesoragoto.com/tags/google/</link>
+      <pubDate>Wed, 09 Nov 2016 16:48:03 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/google/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cocos2d-X</title>
+      <link>https://ukiyoesoragoto.com/tags/cocos2d-x/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/cocos2d-x/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>https://ukiyoesoragoto.com/tags/ubuntu/</link>
+      <pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/ubuntu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Debian</title>
+      <link>https://ukiyoesoragoto.com/tags/debian/</link>
+      <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/debian/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NGINX</title>
+      <link>https://ukiyoesoragoto.com/tags/nginx/</link>
+      <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/nginx/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>UWSGI</title>
+      <link>https://ukiyoesoragoto.com/tags/uwsgi/</link>
+      <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/tags/uwsgi/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

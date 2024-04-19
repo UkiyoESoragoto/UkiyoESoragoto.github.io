@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on 看山有色 听水无声</title>
+    <link>https://ukiyoesoragoto.com/tags/python/</link>
+    <description>Recent content in Python on 看山有色 听水无声</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 浮世絵空事</copyright>
+    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[赛博胎教] 安装 Anaconda</title>
+      <link>https://ukiyoesoragoto.com/posts/2023/1010-%E8%B5%9B%E5%8D%9A%E8%83%8E%E6%95%99-%E5%AE%89%E8%A3%85-anaconda/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2023/1010-%E8%B5%9B%E5%8D%9A%E8%83%8E%E6%95%99-%E5%AE%89%E8%A3%85-anaconda/</guid>
+      <description>安装Anaconda # Anaconda 官方下载页面 https://www.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

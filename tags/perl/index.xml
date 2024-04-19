@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>perl on 看山有色 听水无声</title><link>https://ukiyoesoragoto.com/tags/perl/</link><description>Recent content in perl on 看山有色 听水无声</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Mon, 03 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/tags/perl/index.xml" rel="self" type="application/rss+xml"/><item><title>perl: warning: Setting locale failed</title><link>https://ukiyoesoragoto.com/posts/2017/0403-perl-warning-setting-locale-failed/</link><pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2017/0403-perl-warning-setting-locale-failed/</guid><description>Copy from: http://stackoverflow.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perl on 看山有色 听水无声</title>
+    <link>https://ukiyoesoragoto.com/tags/perl/</link>
+    <description>Recent content in Perl on 看山有色 听水无声</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 浮世絵空事</copyright>
+    <lastBuildDate>Mon, 03 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/tags/perl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>perl: warning: Setting locale failed</title>
+      <link>https://ukiyoesoragoto.com/posts/2017/0403-perl-warning-setting-locale-failed/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2017/0403-perl-warning-setting-locale-failed/</guid>
+      <description>Copy from: http://stackoverflow.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

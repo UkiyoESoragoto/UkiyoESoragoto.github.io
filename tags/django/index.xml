@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Django on 看山有色 听水无声</title><link>https://ukiyoesoragoto.com/tags/django/</link><description>Recent content in Django on 看山有色 听水无声</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 25 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/tags/django/index.xml" rel="self" type="application/rss+xml"/><item><title>VirtualBox6.x开机自启动</title><link>https://ukiyoesoragoto.com/posts/2022/0625-virtualbox6.x%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF%E5%8A%A8/</link><pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2022/0625-virtualbox6.x%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF%E5%8A%A8/</guid><description>https://docs.</description></item><item><title>企业微信开发填坑</title><link>https://ukiyoesoragoto.com/posts/2018/0808-%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91%E5%A1%AB%E5%9D%91/</link><pubDate>Wed, 08 Aug 2018 22:04:39 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2018/0808-%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91%E5%A1%AB%E5%9D%91/</guid><description>(￣◇￣;) 啊 果然是好记性不如烂笔头 才下班没多久居然就要忘了</description></item><item><title>Django国际化与本地化问题备忘</title><link>https://ukiyoesoragoto.com/posts/2015/1223-django%E5%9B%BD%E9%99%85%E5%8C%96%E4%B8%8E%E6%9C%AC%E5%9C%B0%E5%8C%96%E9%97%AE%E9%A2%98%E5%A4%87%E5%BF%98/</link><pubDate>Wed, 23 Dec 2015 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2015/1223-django%E5%9B%BD%E9%99%85%E5%8C%96%E4%B8%8E%E6%9C%AC%E5%9C%B0%E5%8C%96%E9%97%AE%E9%A2%98%E5%A4%87%E5%BF%98/</guid><description>代码：https://github.com/CooloiStudio/django_I18Ntest</description></item><item><title>Debian 6 + nginx + uwsgi to run Django website</title><link>https://ukiyoesoragoto.com/posts/2015/0522-debian-6-nginx-uwsgi-to-run-django-website/</link><pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2015/0522-debian-6-nginx-uwsgi-to-run-django-website/</guid><description>On Host> On Host # Crate debian-archive-keyring> Crate debian-archive-keyring # apt-get install debian-archive-keyring apt-get update apt-get upgraded Install some tools> Install some tools # apt-get install vim apt-get install emacs Add new user> Add new user # adduser username Install sudo tool> Install sudo tool # apt-get install sudo Change /etc/sudoers> Change /etc/sudoers # vim /etc/sudoers username ALL=(ALL) NOPASSWD: ALL Please use this setting carefully</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Django on 看山有色 听水无声</title>
+    <link>https://ukiyoesoragoto.com/tags/django/</link>
+    <description>Recent content in Django on 看山有色 听水无声</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 浮世絵空事</copyright>
+    <lastBuildDate>Sat, 25 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VirtualBox6.x开机自启动</title>
+      <link>https://ukiyoesoragoto.com/posts/2022/0625-virtualbox6.x%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF%E5%8A%A8/</link>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2022/0625-virtualbox6.x%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF%E5%8A%A8/</guid>
+      <description>https://docs.</description>
+      
+    </item>
+    
+    <item>
+      <title>企业微信开发填坑</title>
+      <link>https://ukiyoesoragoto.com/posts/2018/0808-%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91%E5%A1%AB%E5%9D%91/</link>
+      <pubDate>Wed, 08 Aug 2018 22:04:39 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2018/0808-%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91%E5%A1%AB%E5%9D%91/</guid>
+      <description>(￣◇￣;) 啊 果然是好记性不如烂笔头 才下班没多久居然就要忘了</description>
+      
+    </item>
+    
+    <item>
+      <title>Django国际化与本地化问题备忘</title>
+      <link>https://ukiyoesoragoto.com/posts/2015/1223-django%E5%9B%BD%E9%99%85%E5%8C%96%E4%B8%8E%E6%9C%AC%E5%9C%B0%E5%8C%96%E9%97%AE%E9%A2%98%E5%A4%87%E5%BF%98/</link>
+      <pubDate>Wed, 23 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2015/1223-django%E5%9B%BD%E9%99%85%E5%8C%96%E4%B8%8E%E6%9C%AC%E5%9C%B0%E5%8C%96%E9%97%AE%E9%A2%98%E5%A4%87%E5%BF%98/</guid>
+      <description>代码：https://github.com/CooloiStudio/django_I18Ntest</description>
+      
+    </item>
+    
+    <item>
+      <title>Debian 6 &#43; nginx &#43; uwsgi to run Django website</title>
+      <link>https://ukiyoesoragoto.com/posts/2015/0522-debian-6-nginx-uwsgi-to-run-django-website/</link>
+      <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2015/0522-debian-6-nginx-uwsgi-to-run-django-website/</guid>
+      <description>On Host # Crate debian-archive-keyring # apt-get install debian-archive-keyring apt-get update apt-get upgraded Install some tools # apt-get install vim apt-get install emacs Add new user # adduser username Install sudo tool # apt-get install sudo Change /etc/sudoers # vim /etc/sudoers username ALL=(ALL) NOPASSWD: ALL Please use this setting carefully</description>
+      
+    </item>
+    
+  </channel>
+</rss>

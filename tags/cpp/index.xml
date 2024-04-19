@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CPP on 看山有色 听水无声</title><link>https://ukiyoesoragoto.com/tags/cpp/</link><description>Recent content in CPP on 看山有色 听水无声</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 03 Dec 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/tags/cpp/index.xml" rel="self" type="application/rss+xml"/><item><title>C/C++ const with Pointers</title><link>https://ukiyoesoragoto.com/posts/2015/1203-c-const-with-pointers/</link><pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2015/1203-c-const-with-pointers/</guid><description> auto n = 1; auto m = 3; int* ptr = &amp;amp;m; const int* const p = &amp;amp;n; // const pointer, const data * p = 0; // error p = ptr; // error const int* q = &amp;amp;n; // non-const pointer, const data * q = 0; // error q = ptr; int* const e = &amp;amp;n; // const pointer, non-const data * e = 0; e = ptr; // error int* r = &amp;amp;n; // non-cosnt pointer, non-const data * r = 0; r = ptr;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CPP on 看山有色 听水无声</title>
+    <link>http://localhost:1313/tags/cpp/</link>
+    <description>Recent content in CPP on 看山有色 听水无声</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 浮世絵空事</copyright>
+    <atom:link href="http://localhost:1313/tags/cpp/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

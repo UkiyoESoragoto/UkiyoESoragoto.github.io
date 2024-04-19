@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ubuntu on 看山有色 听水无声</title><link>https://ukiyoesoragoto.com/tags/ubuntu/</link><description>Recent content in Ubuntu on 看山有色 听水无声</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Mon, 20 Jul 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/tags/ubuntu/index.xml" rel="self" type="application/rss+xml"/><item><title>Ubuntu可能要用的各种……恩</title><link>https://ukiyoesoragoto.com/posts/2015/0720-ubuntu%E5%8F%AF%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84%E5%90%84%E7%A7%8D%E6%81%A9/</link><pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2015/0720-ubuntu%E5%8F%AF%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84%E5%90%84%E7%A7%8D%E6%81%A9/</guid><description>ubuntu 可能需要的字体> ubuntu 可能需要的字体 # http://wenq.</description></item><item><title>Ubuntu可能要用的各种……命令</title><link>https://ukiyoesoragoto.com/posts/2017/0403-ubuntu%E5%8F%AF%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84%E5%90%84%E7%A7%8D%E5%91%BD%E4%BB%A4/</link><pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2017/0403-ubuntu%E5%8F%AF%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84%E5%90%84%E7%A7%8D%E5%91%BD%E4%BB%A4/</guid><description>启动文件管理器> 启动文件管理器 # sudo nautilus 安装gnome桌面> 安装gnome桌面 # sudo apt-get install gnome-session-fallback 搜狗输入法黑框> 搜狗输入法黑框 # sudo apt-get install xcompmgr sudo cat ~/.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on 看山有色 听水无声</title>
+    <link>https://ukiyoesoragoto.com/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on 看山有色 听水无声</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 浮世絵空事</copyright>
+    <lastBuildDate>Mon, 20 Jul 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu可能要用的各种……恩</title>
+      <link>https://ukiyoesoragoto.com/posts/2015/0720-ubuntu%E5%8F%AF%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84%E5%90%84%E7%A7%8D%E6%81%A9/</link>
+      <pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2015/0720-ubuntu%E5%8F%AF%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84%E5%90%84%E7%A7%8D%E6%81%A9/</guid>
+      <description>ubuntu 可能需要的字体 # http://wenq.</description>
+      
+    </item>
+    
+    <item>
+      <title>Ubuntu可能要用的各种……命令</title>
+      <link>https://ukiyoesoragoto.com/posts/2017/0403-ubuntu%E5%8F%AF%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84%E5%90%84%E7%A7%8D%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2017/0403-ubuntu%E5%8F%AF%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84%E5%90%84%E7%A7%8D%E5%91%BD%E4%BB%A4/</guid>
+      <description>启动文件管理器 # sudo nautilus 安装gnome桌面 # sudo apt-get install gnome-session-fallback 搜狗输入法黑框 # sudo apt-get install xcompmgr sudo cat ~/.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>安装Microsoft on 看山有色 听水无声</title>
+    <link>http://localhost:1313/tags/%E5%AE%89%E8%A3%85microsoft/</link>
+    <description>Recent content in 安装Microsoft on 看山有色 听水无声</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 浮世絵空事</copyright>
+    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%AE%89%E8%A3%85microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>安装Microsoft C&#43;&#43; Build Tools</title>
+      <link>http://localhost:1313/posts/2023/1010-%E5%AE%89%E8%A3%85-microsoft-c&#43;&#43;-build-tools/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/2023/1010-%E5%AE%89%E8%A3%85-microsoft-c&#43;&#43;-build-tools/</guid>
+      <description>安装Microsoft C++ Build Tools # 前往 https://visualstudio.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

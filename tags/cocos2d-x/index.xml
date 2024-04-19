@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cocos2d-x on 看山有色 听水无声</title><link>https://ukiyoesoragoto.com/tags/cocos2d-x/</link><description>Recent content in Cocos2d-x on 看山有色 听水无声</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Fri, 27 May 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/tags/cocos2d-x/index.xml" rel="self" type="application/rss+xml"/><item><title>Cocos2d-x文件读写问题备忘</title><link>https://ukiyoesoragoto.com/posts/2016/20160527-cocos2d-x%E6%96%87%E4%BB%B6%E8%AF%BB%E5%86%99%E9%97%AE%E9%A2%98%E5%A4%87%E5%BF%98/</link><pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2016/20160527-cocos2d-x%E6%96%87%E4%BB%B6%E8%AF%BB%E5%86%99%E9%97%AE%E9%A2%98%E5%A4%87%E5%BF%98/</guid><description>这篇备忘是基于cocos2d-x 3.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cocos2d-X on 看山有色 听水无声</title>
+    <link>https://ukiyoesoragoto.com/tags/cocos2d-x/</link>
+    <description>Recent content in Cocos2d-X on 看山有色 听水无声</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 浮世絵空事</copyright>
+    <lastBuildDate>Fri, 27 May 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/tags/cocos2d-x/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cocos2d-x文件读写问题备忘</title>
+      <link>https://ukiyoesoragoto.com/posts/2016/20160527-cocos2d-x%E6%96%87%E4%BB%B6%E8%AF%BB%E5%86%99%E9%97%AE%E9%A2%98%E5%A4%87%E5%BF%98/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2016/20160527-cocos2d-x%E6%96%87%E4%BB%B6%E8%AF%BB%E5%86%99%E9%97%AE%E9%A2%98%E5%A4%87%E5%BF%98/</guid>
+      <description>这篇备忘是基于cocos2d-x 3.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

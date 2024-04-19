@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authors on 看山有色 听水无声</title><link>https://ukiyoesoragoto.com/authors/</link><description>Recent content in Authors on 看山有色 听水无声</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="https://ukiyoesoragoto.com/authors/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on 看山有色 听水无声</title>
+    <link>https://ukiyoesoragoto.com/authors/</link>
+    <description>Recent content in Authors on 看山有色 听水无声</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 浮世絵空事</copyright>
+    <atom:link href="https://ukiyoesoragoto.com/authors/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

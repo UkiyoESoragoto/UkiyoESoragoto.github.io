@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GoLang on 看山有色 听水无声</title>
+    <link>http://localhost:1313/tags/golang/</link>
+    <description>Recent content in GoLang on 看山有色 听水无声</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 浮世絵空事</copyright>
+    <lastBuildDate>Mon, 08 May 2023 19:27:59 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go-Zero 入门</title>
+      <link>http://localhost:1313/posts/2023/0508-go-zero-%E5%85%A5%E9%97%A8/</link>
+      <pubDate>Mon, 08 May 2023 19:27:59 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/2023/0508-go-zero-%E5%85%A5%E9%97%A8/</guid>
+      <description>使用微服务</description>
+      
+    </item>
+    
+  </channel>
+</rss>

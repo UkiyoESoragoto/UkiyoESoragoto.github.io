@@ -1,1 +1,222 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>看山有色 听水无声</title><link>https://ukiyoesoragoto.com/posts/</link><description>Recent content on 看山有色 听水无声</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 25 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>VirtualBox6.x开机自启动</title><link>https://ukiyoesoragoto.com/posts/2022/0625-virtualbox6.x%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF%E5%8A%A8/</link><pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2022/0625-virtualbox6.x%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF%E5%8A%A8/</guid><description>https://docs.</description></item><item><title>企业微信开发填坑</title><link>https://ukiyoesoragoto.com/posts/2018/0808-%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91%E5%A1%AB%E5%9D%91/</link><pubDate>Wed, 08 Aug 2018 22:04:39 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2018/0808-%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91%E5%A1%AB%E5%9D%91/</guid><description>(￣◇￣;) 啊 果然是好记性不如烂笔头 才下班没多久居然就要忘了</description></item><item><title>What is a NullReferenceException, and how do I fix it?</title><link>https://ukiyoesoragoto.com/posts/2017/0407-what-is-a-nullreferenceexception-and-how-do-i-fix-it/</link><pubDate>Fri, 07 Apr 2017 15:49:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2017/0407-what-is-a-nullreferenceexception-and-how-do-i-fix-it/</guid><description>Copy from: http://stackoverflow.</description></item><item><title>perl: warning: Setting locale failed</title><link>https://ukiyoesoragoto.com/posts/2017/0403-perl-warning-setting-locale-failed/</link><pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2017/0403-perl-warning-setting-locale-failed/</guid><description>Copy from: http://stackoverflow.</description></item><item><title>Build pure C project on Windows</title><link>https://ukiyoesoragoto.com/posts/2017/0324-build-pure-c-project-on-windows/</link><pubDate>Fri, 24 Mar 2017 20:08:04 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2017/0324-build-pure-c-project-on-windows/</guid><description>I just need build pure C project on windows</description></item><item><title>Windows Dev Tips</title><link>https://ukiyoesoragoto.com/posts/2017/0228-windows-dev-tips/</link><pubDate>Tue, 28 Feb 2017 13:45:11 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2017/0228-windows-dev-tips/</guid><description>C:\Program Files路径下的操作需要管理员权限，因此在非管理员权限程序路径下生成文件会失败，并可能因此导致程序闪退。</description></item><item><title>WPF Image UriSource and Data Binding using http:\\ URL</title><link>https://ukiyoesoragoto.com/posts/2017/0216-wpf-image-urisource-and-data-binding-using-http-url/</link><pubDate>Thu, 16 Feb 2017 14:02:25 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2017/0216-wpf-image-urisource-and-data-binding-using-http-url/</guid><description>WPF Image UriSource and Data Binding using http:\\ URL</description></item><item><title>WPF change button style with image</title><link>https://ukiyoesoragoto.com/posts/2017/0206-wpf-change-button-style-with-image/</link><pubDate>Mon, 06 Feb 2017 16:45:50 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2017/0206-wpf-change-button-style-with-image/</guid><description>WPF change button style with image</description></item><item><title>Add new Hard Disk to Linux</title><link>https://ukiyoesoragoto.com/posts/2016/20161123-add-new-hard-disk-to-linux/</link><pubDate>Wed, 23 Nov 2016 15:52:27 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2016/20161123-add-new-hard-disk-to-linux/</guid><description>Add new Hard Disk to Linux Conver to GTP, format disk and mount disk</description></item><item><title>Google Tag Assistant usage</title><link>https://ukiyoesoragoto.com/posts/2016/20161109-google-tag-assistant-usage/</link><pubDate>Wed, 09 Nov 2016 16:48:03 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2016/20161109-google-tag-assistant-usage/</guid><description>关于> 关于 # Tag Assistant是一款Chrome插件，可自动验证任何指定网页上的Google跟踪脚本的实施情况。它目前适用于：</description></item><item><title>Cocos2d-x文件读写问题备忘</title><link>https://ukiyoesoragoto.com/posts/2016/20160527-cocos2d-x%E6%96%87%E4%BB%B6%E8%AF%BB%E5%86%99%E9%97%AE%E9%A2%98%E5%A4%87%E5%BF%98/</link><pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2016/20160527-cocos2d-x%E6%96%87%E4%BB%B6%E8%AF%BB%E5%86%99%E9%97%AE%E9%A2%98%E5%A4%87%E5%BF%98/</guid><description>这篇备忘是基于cocos2d-x 3.</description></item><item><title>Django国际化与本地化问题备忘</title><link>https://ukiyoesoragoto.com/posts/2015/1223-django%E5%9B%BD%E9%99%85%E5%8C%96%E4%B8%8E%E6%9C%AC%E5%9C%B0%E5%8C%96%E9%97%AE%E9%A2%98%E5%A4%87%E5%BF%98/</link><pubDate>Wed, 23 Dec 2015 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2015/1223-django%E5%9B%BD%E9%99%85%E5%8C%96%E4%B8%8E%E6%9C%AC%E5%9C%B0%E5%8C%96%E9%97%AE%E9%A2%98%E5%A4%87%E5%BF%98/</guid><description>代码：https://github.com/CooloiStudio/django_I18Ntest</description></item><item><title>C/C++ const with Pointers</title><link>https://ukiyoesoragoto.com/posts/2015/1203-c-const-with-pointers/</link><pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2015/1203-c-const-with-pointers/</guid><description> auto n = 1; auto m = 3; int* ptr = &amp;amp;m; const int* const p = &amp;amp;n; // const pointer, const data * p = 0; // error p = ptr; // error const int* q = &amp;amp;n; // non-const pointer, const data * q = 0; // error q = ptr; int* const e = &amp;amp;n; // const pointer, non-const data * e = 0; e = ptr; // error int* r = &amp;amp;n; // non-cosnt pointer, non-const data * r = 0; r = ptr;</description></item><item><title>Ubuntu可能要用的各种……恩</title><link>https://ukiyoesoragoto.com/posts/2015/0720-ubuntu%E5%8F%AF%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84%E5%90%84%E7%A7%8D%E6%81%A9/</link><pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2015/0720-ubuntu%E5%8F%AF%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84%E5%90%84%E7%A7%8D%E6%81%A9/</guid><description>ubuntu 可能需要的字体> ubuntu 可能需要的字体 # http://wenq.</description></item><item><title>Ubuntu可能要用的各种……命令</title><link>https://ukiyoesoragoto.com/posts/2017/0403-ubuntu%E5%8F%AF%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84%E5%90%84%E7%A7%8D%E5%91%BD%E4%BB%A4/</link><pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2017/0403-ubuntu%E5%8F%AF%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84%E5%90%84%E7%A7%8D%E5%91%BD%E4%BB%A4/</guid><description>启动文件管理器> 启动文件管理器 # sudo nautilus 安装gnome桌面> 安装gnome桌面 # sudo apt-get install gnome-session-fallback 搜狗输入法黑框> 搜狗输入法黑框 # sudo apt-get install xcompmgr sudo cat ~/.</description></item><item><title>Debian 6 + nginx + uwsgi to run Django website</title><link>https://ukiyoesoragoto.com/posts/2015/0522-debian-6-nginx-uwsgi-to-run-django-website/</link><pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate><guid>https://ukiyoesoragoto.com/posts/2015/0522-debian-6-nginx-uwsgi-to-run-django-website/</guid><description>On Host> On Host # Crate debian-archive-keyring> Crate debian-archive-keyring # apt-get install debian-archive-keyring apt-get update apt-get upgraded Install some tools> Install some tools # apt-get install vim apt-get install emacs Add new user> Add new user # adduser username Install sudo tool> Install sudo tool # apt-get install sudo Change /etc/sudoers> Change /etc/sudoers # vim /etc/sudoers username ALL=(ALL) NOPASSWD: ALL Please use this setting carefully</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>看山有色 听水无声</title>
+    <link>https://ukiyoesoragoto.com/posts/</link>
+    <description>Recent content on 看山有色 听水无声</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 浮世絵空事</copyright>
+    <lastBuildDate>Mon, 23 Oct 2023 01:00:00 +0800</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VideoReTalking 开箱教程</title>
+      <link>https://ukiyoesoragoto.com/posts/2023/1010-videoretalking-%E5%BC%80%E7%AE%B1%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Mon, 23 Oct 2023 01:00:00 +0800</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2023/1010-videoretalking-%E5%BC%80%E7%AE%B1%E6%95%99%E7%A8%8B/</guid>
+      <description>前言 # VideoReTalking是什么 # 来看一下官方的简介</description>
+      
+    </item>
+    
+    <item>
+      <title>[赛博胎教] 安装 Anaconda</title>
+      <link>https://ukiyoesoragoto.com/posts/2023/1010-%E8%B5%9B%E5%8D%9A%E8%83%8E%E6%95%99-%E5%AE%89%E8%A3%85-anaconda/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2023/1010-%E8%B5%9B%E5%8D%9A%E8%83%8E%E6%95%99-%E5%AE%89%E8%A3%85-anaconda/</guid>
+      <description>安装Anaconda # Anaconda 官方下载页面 https://www.</description>
+      
+    </item>
+    
+    <item>
+      <title>[赛博胎教] 安装 Git</title>
+      <link>https://ukiyoesoragoto.com/posts/2023/1010-%E8%B5%9B%E5%8D%9A%E8%83%8E%E6%95%99-%E5%AE%89%E8%A3%85-git/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2023/1010-%E8%B5%9B%E5%8D%9A%E8%83%8E%E6%95%99-%E5%AE%89%E8%A3%85-git/</guid>
+      <description>双击启动安装程序👇</description>
+      
+    </item>
+    
+    <item>
+      <title>[赛博胎教] 安装Microsoft C&#43;&#43; Build Tools</title>
+      <link>https://ukiyoesoragoto.com/posts/2023/1010-%E8%B5%9B%E5%8D%9A%E8%83%8E%E6%95%99-%E5%AE%89%E8%A3%85-microsoft-c&#43;&#43;-build-tools/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2023/1010-%E8%B5%9B%E5%8D%9A%E8%83%8E%E6%95%99-%E5%AE%89%E8%A3%85-microsoft-c&#43;&#43;-build-tools/</guid>
+      <description>安装Microsoft C++ Build Tools # 前往 https://visualstudio.</description>
+      
+    </item>
+    
+    <item>
+      <title>EbSynth 浅尝</title>
+      <link>https://ukiyoesoragoto.com/posts/2023/1023-ebsynth-%E6%B5%85%E5%B0%9D/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2023/1023-ebsynth-%E6%B5%85%E5%B0%9D/</guid>
+      <description>准备工作 # ControlNet https://github.</description>
+      
+    </item>
+    
+    <item>
+      <title>VirtualBox6.x开机自启动</title>
+      <link>https://ukiyoesoragoto.com/posts/2022/0625-virtualbox6.x%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF%E5%8A%A8/</link>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2022/0625-virtualbox6.x%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF%E5%8A%A8/</guid>
+      <description>https://docs.</description>
+      
+    </item>
+    
+    <item>
+      <title>企业微信开发填坑</title>
+      <link>https://ukiyoesoragoto.com/posts/2018/0808-%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91%E5%A1%AB%E5%9D%91/</link>
+      <pubDate>Wed, 08 Aug 2018 22:04:39 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2018/0808-%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91%E5%A1%AB%E5%9D%91/</guid>
+      <description>(￣◇￣;) 啊 果然是好记性不如烂笔头 才下班没多久居然就要忘了</description>
+      
+    </item>
+    
+    <item>
+      <title>What is a NullReferenceException, and how do I fix it?</title>
+      <link>https://ukiyoesoragoto.com/posts/2017/0407-what-is-a-nullreferenceexception-and-how-do-i-fix-it/</link>
+      <pubDate>Fri, 07 Apr 2017 15:49:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2017/0407-what-is-a-nullreferenceexception-and-how-do-i-fix-it/</guid>
+      <description>Copy from: http://stackoverflow.</description>
+      
+    </item>
+    
+    <item>
+      <title>perl: warning: Setting locale failed</title>
+      <link>https://ukiyoesoragoto.com/posts/2017/0403-perl-warning-setting-locale-failed/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2017/0403-perl-warning-setting-locale-failed/</guid>
+      <description>Copy from: http://stackoverflow.</description>
+      
+    </item>
+    
+    <item>
+      <title>Build pure C project on Windows</title>
+      <link>https://ukiyoesoragoto.com/posts/2017/0324-build-pure-c-project-on-windows/</link>
+      <pubDate>Fri, 24 Mar 2017 20:08:04 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2017/0324-build-pure-c-project-on-windows/</guid>
+      <description>I just need build pure C project on windows</description>
+      
+    </item>
+    
+    <item>
+      <title>Windows Dev Tips</title>
+      <link>https://ukiyoesoragoto.com/posts/2017/0228-windows-dev-tips/</link>
+      <pubDate>Tue, 28 Feb 2017 13:45:11 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2017/0228-windows-dev-tips/</guid>
+      <description>C:\Program Files路径下的操作需要管理员权限，因此在非管理员权限程序路径下生成文件会失败，并可能因此导致程序闪退。</description>
+      
+    </item>
+    
+    <item>
+      <title>WPF Image UriSource and Data Binding using http:\\ URL</title>
+      <link>https://ukiyoesoragoto.com/posts/2017/0216-wpf-image-urisource-and-data-binding-using-http-url/</link>
+      <pubDate>Thu, 16 Feb 2017 14:02:25 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2017/0216-wpf-image-urisource-and-data-binding-using-http-url/</guid>
+      <description>WPF Image UriSource and Data Binding using http:\\ URL</description>
+      
+    </item>
+    
+    <item>
+      <title>WPF change button style with image</title>
+      <link>https://ukiyoesoragoto.com/posts/2017/0206-wpf-change-button-style-with-image/</link>
+      <pubDate>Mon, 06 Feb 2017 16:45:50 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2017/0206-wpf-change-button-style-with-image/</guid>
+      <description>WPF change button style with image</description>
+      
+    </item>
+    
+    <item>
+      <title>Add new Hard Disk to Linux</title>
+      <link>https://ukiyoesoragoto.com/posts/2016/20161123-add-new-hard-disk-to-linux/</link>
+      <pubDate>Wed, 23 Nov 2016 15:52:27 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2016/20161123-add-new-hard-disk-to-linux/</guid>
+      <description>Add new Hard Disk to Linux Conver to GTP, format disk and mount disk</description>
+      
+    </item>
+    
+    <item>
+      <title>Google Tag Assistant usage</title>
+      <link>https://ukiyoesoragoto.com/posts/2016/20161109-google-tag-assistant-usage/</link>
+      <pubDate>Wed, 09 Nov 2016 16:48:03 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2016/20161109-google-tag-assistant-usage/</guid>
+      <description>关于 # Tag Assistant是一款Chrome插件，可自动验证任何指定网页上的Google跟踪脚本的实施情况。它目前适用于：</description>
+      
+    </item>
+    
+    <item>
+      <title>Cocos2d-x文件读写问题备忘</title>
+      <link>https://ukiyoesoragoto.com/posts/2016/20160527-cocos2d-x%E6%96%87%E4%BB%B6%E8%AF%BB%E5%86%99%E9%97%AE%E9%A2%98%E5%A4%87%E5%BF%98/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2016/20160527-cocos2d-x%E6%96%87%E4%BB%B6%E8%AF%BB%E5%86%99%E9%97%AE%E9%A2%98%E5%A4%87%E5%BF%98/</guid>
+      <description>这篇备忘是基于cocos2d-x 3.</description>
+      
+    </item>
+    
+    <item>
+      <title>Django国际化与本地化问题备忘</title>
+      <link>https://ukiyoesoragoto.com/posts/2015/1223-django%E5%9B%BD%E9%99%85%E5%8C%96%E4%B8%8E%E6%9C%AC%E5%9C%B0%E5%8C%96%E9%97%AE%E9%A2%98%E5%A4%87%E5%BF%98/</link>
+      <pubDate>Wed, 23 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2015/1223-django%E5%9B%BD%E9%99%85%E5%8C%96%E4%B8%8E%E6%9C%AC%E5%9C%B0%E5%8C%96%E9%97%AE%E9%A2%98%E5%A4%87%E5%BF%98/</guid>
+      <description>代码：https://github.com/CooloiStudio/django_I18Ntest</description>
+      
+    </item>
+    
+    <item>
+      <title>C/C&#43;&#43; const with Pointers</title>
+      <link>https://ukiyoesoragoto.com/posts/2015/1203-c-const-with-pointers/</link>
+      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2015/1203-c-const-with-pointers/</guid>
+      <description> auto n = 1; auto m = 3; int* ptr = &amp;amp;m; const int* const p = &amp;amp;n; // const pointer, const data * p = 0; // error p = ptr; // error const int* q = &amp;amp;n; // non-const pointer, const data * q = 0; // error q = ptr; int* const e = &amp;amp;n; // const pointer, non-const data * e = 0; e = ptr; // error int* r = &amp;amp;n; // non-cosnt pointer, non-const data * r = 0; r = ptr; </description>
+      
+    </item>
+    
+    <item>
+      <title>Ubuntu可能要用的各种……恩</title>
+      <link>https://ukiyoesoragoto.com/posts/2015/0720-ubuntu%E5%8F%AF%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84%E5%90%84%E7%A7%8D%E6%81%A9/</link>
+      <pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2015/0720-ubuntu%E5%8F%AF%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84%E5%90%84%E7%A7%8D%E6%81%A9/</guid>
+      <description>ubuntu 可能需要的字体 # http://wenq.</description>
+      
+    </item>
+    
+    <item>
+      <title>Ubuntu可能要用的各种……命令</title>
+      <link>https://ukiyoesoragoto.com/posts/2017/0403-ubuntu%E5%8F%AF%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84%E5%90%84%E7%A7%8D%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2017/0403-ubuntu%E5%8F%AF%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84%E5%90%84%E7%A7%8D%E5%91%BD%E4%BB%A4/</guid>
+      <description>启动文件管理器 # sudo nautilus 安装gnome桌面 # sudo apt-get install gnome-session-fallback 搜狗输入法黑框 # sudo apt-get install xcompmgr sudo cat ~/.</description>
+      
+    </item>
+    
+    <item>
+      <title>Debian 6 &#43; nginx &#43; uwsgi to run Django website</title>
+      <link>https://ukiyoesoragoto.com/posts/2015/0522-debian-6-nginx-uwsgi-to-run-django-website/</link>
+      <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/posts/2015/0522-debian-6-nginx-uwsgi-to-run-django-website/</guid>
+      <description>On Host # Crate debian-archive-keyring # apt-get install debian-archive-keyring apt-get update apt-get upgraded Install some tools # apt-get install vim apt-get install emacs Add new user # adduser username Install sudo tool # apt-get install sudo Change /etc/sudoers # vim /etc/sudoers username ALL=(ALL) NOPASSWD: ALL Please use this setting carefully</description>
+      
+    </item>
+    
+  </channel>
+</rss>
