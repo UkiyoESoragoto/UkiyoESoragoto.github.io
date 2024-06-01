@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://ukiyoesoragoto.com/</loc>
-    <lastmod>2023-10-23T01:00:00+08:00</lastmod>
+    <lastmod>2024-04-25T15:14:17+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -20,7 +20,19 @@
   </url>
   <url>
     <loc>https://ukiyoesoragoto.com/posts/</loc>
-    <lastmod>2023-10-23T01:00:00+08:00</lastmod>
+    <lastmod>2024-04-25T15:14:17+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ukiyoesoragoto.com/games/2024/aircraft/</loc>
+    <lastmod>2024-04-25T15:14:17+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ukiyoesoragoto.com/games/</loc>
+    <lastmod>2024-04-25T15:14:17+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
