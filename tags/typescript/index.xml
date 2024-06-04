@@ -10,16 +10,6 @@
     <lastBuildDate>Thu, 25 Apr 2024 15:14:17 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cocos 3.x Basic Operations Quick Reference</title>
-      <link>http://localhost:1313/games/2024/aircraft/</link>
-      <pubDate>Thu, 25 Apr 2024 15:14:17 +0800</pubDate>
-      
-      <guid>http://localhost:1313/games/2024/aircraft/</guid>
-      <description>脚本操作 # 通过预制(Prefab)生成一个节点(Node)实例 # 示范：生成一个Enemy对象</description>
-      
-    </item>
-    
-    <item>
-      <title>Cocos 3.x Basic Operations Quick Reference</title>
       <link>http://localhost:1313/posts/2024/0425-cocos-3.x-basic-operations-quick-reference/</link>
       <pubDate>Thu, 25 Apr 2024 15:14:17 +0800</pubDate>
       
