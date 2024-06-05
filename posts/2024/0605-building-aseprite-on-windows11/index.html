@@ -8,14 +8,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>Cocos 3.x Basic Operations Quick Reference &middot; 看山有色 听水无声</title>
-  <meta name="title" content="Cocos 3.x Basic Operations Quick Reference &middot; 看山有色 听水无声" />
+  <title>在Windows 11 自主编译 Aseprite &middot; 看山有色 听水无声</title>
+  <meta name="title" content="在Windows 11 自主编译 Aseprite &middot; 看山有色 听水无声" />
   
   <meta name="description" content="description" />
-  <meta name="keywords" content="Cocos, TypeScript, " />
+  <meta name="keywords" content="Windows, Aseprite, Microsoft, C&#43;&#43;, " />
   
   
-  <link rel="canonical" href="http://localhost:1313/posts/2024/0425-cocos-3.x-basic-operations-quick-reference/" />
+  <link rel="canonical" href="http://localhost:1313/posts/2024/0605-building-aseprite-on-windows11/" />
   
   
   
@@ -63,15 +63,15 @@
   
   
   
-  <meta property="og:title" content="Cocos 3.x Basic Operations Quick Reference" />
-<meta property="og:description" content="脚本操作 # 通过预制(Prefab)生成一个节点(Node)实例 # 示范：生成一个Enemy对象" />
+  <meta property="og:title" content="在Windows 11 自主编译 Aseprite" />
+<meta property="og:description" content="Aseprite是什么 # Aseprite (/ˈeɪspraɪt/ AY-spryte) is a proprietary, source-available image editor designed primarily for pixel art drawing and animation." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/posts/2024/0425-cocos-3.x-basic-operations-quick-reference/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2024-04-25T15:14:17+08:00" />
-<meta property="article:modified_time" content="2024-04-25T15:14:17+08:00" />
+<meta property="og:url" content="http://localhost:1313/posts/2024/0605-building-aseprite-on-windows11/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-06-05T12:54:31+08:00" />
+<meta property="article:modified_time" content="2024-06-05T12:54:31+08:00" />
 
-  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Cocos 3.x Basic Operations Quick Reference"/>
-<meta name="twitter:description" content="脚本操作 # 通过预制(Prefab)生成一个节点(Node)实例 # 示范：生成一个Enemy对象"/>
+  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="在Windows 11 自主编译 Aseprite"/>
+<meta name="twitter:description" content="Aseprite是什么 # Aseprite (/ˈeɪspraɪt/ AY-spryte) is a proprietary, source-available image editor designed primarily for pixel art drawing and animation."/>
 
   
   <script type="application/ld+json">
@@ -79,26 +79,26 @@
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "",
-    "name": "Cocos 3.x Basic Operations Quick Reference",
-    "headline": "Cocos 3.x Basic Operations Quick Reference",
+    "name": "在Windows 11 自主编译 Aseprite",
+    "headline": "在Windows 11 自主编译 Aseprite",
     
-    "abstract": "脚本操作 # 通过预制(Prefab)生成一个节点(Node)实例 # 示范：生成一个Enemy对象",
+    "abstract": "Aseprite是什么 # Aseprite (\/ˈeɪspraɪt\/ AY-spryte) is a proprietary, source-available image editor designed primarily for pixel art drawing and animation.",
     "inLanguage": "zh-cn",
-    "url" : "http:\/\/localhost:1313\/posts\/2024\/0425-cocos-3.x-basic-operations-quick-reference\/",
+    "url" : "http:\/\/localhost:1313\/posts\/2024\/0605-building-aseprite-on-windows11\/",
     "author" : {
       "@type": "Person",
       "name": "浮世絵空事"
     },
     "copyrightYear": "2024",
-    "dateCreated": "2024-04-25T15:14:17\u002b08:00",
-    "datePublished": "2024-04-25T15:14:17\u002b08:00",
+    "dateCreated": "2024-06-05T12:54:31\u002b08:00",
+    "datePublished": "2024-06-05T12:54:31\u002b08:00",
     
-    "dateModified": "2024-04-25T15:14:17\u002b08:00",
+    "dateModified": "2024-06-05T12:54:31\u002b08:00",
     
-    "keywords": ["Cocos","TypeScript"],
+    "keywords": ["Windows","Aseprite","Microsoft","C++"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "60"
+    "wordCount": "117"
   }]
   </script>
 
@@ -432,7 +432,7 @@
   <header id="single_header" class="mt-5 max-w-prose">
     
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-      Cocos 3.x Basic Operations Quick Reference
+      在Windows 11 自主编译 Aseprite
     </h1>
     <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
@@ -473,7 +473,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-04-25 15:14:17 &#43;0800 CST">25 April 2024</time>
+  <time datetime="2024-06-05 12:54:31 &#43;0800 CST">5 June 2024</time>
   
 
   
@@ -513,18 +513,34 @@
   
   
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/cocos/&#34;,'_self');">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/windows/&#34;,'_self');">
     <span class="flex" style="cursor: pointer;">
   <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Cocos
+    Windows
   </span>
 </span>
   </span>
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/typescript/&#34;,'_self');">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/aseprite/&#34;,'_self');">
     <span class="flex" style="cursor: pointer;">
   <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    TypeScript
+    Aseprite
+  </span>
+</span>
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/microsoft/&#34;,'_self');">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Microsoft
+  </span>
+</span>
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/c&#43;&#43;/&#34;,'_self');">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    C&#43;&#43;
   </span>
 </span>
   </span>
@@ -631,10 +647,20 @@
     class="min-w-[220px] py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#通过预制prefab生成一个节点node实例">通过预制(Prefab)生成一个节点(Node)实例</a></li>
-    <li><a href="#获取父节点">获取父节点</a></li>
-    <li><a href="#根据名称获取节点下的组件">根据名称获取节点下的组件</a></li>
-    <li><a href="#动态加载预制">动态加载预制</a></li>
+    <li><a href="#aseprite是什么">Aseprite是什么</a></li>
+    <li><a href="#为什么要自己编译">为什么要自己编译</a></li>
+    <li><a href="#准备材料">准备材料</a></li>
+    <li><a href="#安装各工具">安装各工具</a>
+      <ul>
+        <li><a href="#git">git</a></li>
+        <li><a href="#cmake">CMake</a></li>
+        <li><a href="#ninja">Ninja</a></li>
+        <li><a href="#visual-studio">Visual Studio</a></li>
+        <li><a href="#skia">skia</a></li>
+      </ul>
+    </li>
+    <li><a href="#开始编译">开始编译</a></li>
+    <li><a href="#参考资料">参考资料</a></li>
   </ul>
 </nav>
   </div>
@@ -648,10 +674,20 @@
     class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#通过预制prefab生成一个节点node实例">通过预制(Prefab)生成一个节点(Node)实例</a></li>
-    <li><a href="#获取父节点">获取父节点</a></li>
-    <li><a href="#根据名称获取节点下的组件">根据名称获取节点下的组件</a></li>
-    <li><a href="#动态加载预制">动态加载预制</a></li>
+    <li><a href="#aseprite是什么">Aseprite是什么</a></li>
+    <li><a href="#为什么要自己编译">为什么要自己编译</a></li>
+    <li><a href="#准备材料">准备材料</a></li>
+    <li><a href="#安装各工具">安装各工具</a>
+      <ul>
+        <li><a href="#git">git</a></li>
+        <li><a href="#cmake">CMake</a></li>
+        <li><a href="#ninja">Ninja</a></li>
+        <li><a href="#visual-studio">Visual Studio</a></li>
+        <li><a href="#skia">skia</a></li>
+      </ul>
+    </li>
+    <li><a href="#开始编译">开始编译</a></li>
+    <li><a href="#参考资料">参考资料</a></li>
   </ul>
 </nav>
   </div>
@@ -670,82 +706,175 @@
         <div class="article-content max-w-prose mb-20">
           
 
-<h1 class="relative group">脚本操作 
-    <div id="%E8%84%9A%E6%9C%AC%E6%93%8D%E4%BD%9C" class="anchor"></div>
+<h2 class="relative group">Aseprite是什么 
+    <div id="aseprite%E6%98%AF%E4%BB%80%E4%B9%88" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E8%84%9A%E6%9C%AC%E6%93%8D%E4%BD%9C" aria-label="锚点">#</a>
-    </span>        
-    
-</h1>
-
-
-<h2 class="relative group">通过预制(Prefab)生成一个节点(Node)实例 
-    <div id="%E9%80%9A%E8%BF%87%E9%A2%84%E5%88%B6prefab%E7%94%9F%E6%88%90%E4%B8%80%E4%B8%AA%E8%8A%82%E7%82%B9node%E5%AE%9E%E4%BE%8B" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E9%80%9A%E8%BF%87%E9%A2%84%E5%88%B6prefab%E7%94%9F%E6%88%90%E4%B8%80%E4%B8%AA%E8%8A%82%E7%82%B9node%E5%AE%9E%E4%BE%8B" aria-label="锚点">#</a>
+            style="text-decoration-line: none !important;" href="#aseprite%E6%98%AF%E4%BB%80%E4%B9%88" aria-label="锚点">#</a>
     </span>        
     
 </h2>
-<p>示范：生成一个Enemy对象</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-ts" data-lang="ts"><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">CreateEnemy</span> <span class="o">=</span> <span class="p">(</span><span class="nx">parent</span>: <span class="kt">Node</span><span class="p">,</span> <span class="nx">prefab</span>: <span class="kt">Prefab</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">  <span class="kr">const</span> <span class="nx">_node</span> <span class="o">=</span> <span class="nx">instantiate</span><span class="p">(</span><span class="nx">prefab</span><span class="p">)</span> <span class="kr">as</span> <span class="nx">Node</span><span class="p">;</span>
-</span></span><span class="line"><span class="cl">  <span class="nx">_node</span><span class="p">.</span><span class="nx">setParent</span><span class="p">(</span><span class="nx">parent</span><span class="p">);</span>
-</span></span><span class="line"><span class="cl">  <span class="k">return</span> <span class="p">{</span><span class="nx">_node</span><span class="p">};</span>
-</span></span><span class="line"><span class="cl"><span class="p">};</span>
-</span></span></code></pre></div>
+<blockquote>
+<p>Aseprite (/ˈeɪspraɪt/ AY-spryte) is a proprietary, source-available image editor designed primarily for pixel art drawing and animation. <a href="https://en.wikipedia.org/wiki/Aseprite" target="_blank">https://en.wikipedia.org/wiki/Aseprite</a></p>
+</blockquote>
+<p>机翻：Aseprite是一种专有的、可用源的图像编辑器，主要为像素艺术绘图和动画而设计。</p>
+<p>说人话：Aseprite可以画像素画</p>
 
-<h2 class="relative group">获取父节点 
-    <div id="%E8%8E%B7%E5%8F%96%E7%88%B6%E8%8A%82%E7%82%B9" class="anchor"></div>
+
+<h2 class="relative group">为什么要自己编译 
+    <div id="%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%87%AA%E5%B7%B1%E7%BC%96%E8%AF%91" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E8%8E%B7%E5%8F%96%E7%88%B6%E8%8A%82%E7%82%B9" aria-label="锚点">#</a>
+            style="text-decoration-line: none !important;" href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%87%AA%E5%B7%B1%E7%BC%96%E8%AF%91" aria-label="锚点">#</a>
     </span>        
     
 </h2>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-ts" data-lang="ts"><span class="line"><span class="cl"><span class="kd">let</span> <span class="nx">parent</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">getParent</span><span class="p">();</span>
-</span></span></code></pre></div>
+<ul>
+<li>因为不要钱</li>
+<li>编译成功之后会获得成就感</li>
+</ul>
 
-<h2 class="relative group">根据名称获取节点下的组件 
-    <div id="%E6%A0%B9%E6%8D%AE%E5%90%8D%E7%A7%B0%E8%8E%B7%E5%8F%96%E8%8A%82%E7%82%B9%E4%B8%8B%E7%9A%84%E7%BB%84%E4%BB%B6" class="anchor"></div>
+
+<h2 class="relative group">准备材料 
+    <div id="%E5%87%86%E5%A4%87%E6%9D%90%E6%96%99" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E6%A0%B9%E6%8D%AE%E5%90%8D%E7%A7%B0%E8%8E%B7%E5%8F%96%E8%8A%82%E7%82%B9%E4%B8%8B%E7%9A%84%E7%BB%84%E4%BB%B6" aria-label="锚点">#</a>
+            style="text-decoration-line: none !important;" href="#%E5%87%86%E5%A4%87%E6%9D%90%E6%96%99" aria-label="锚点">#</a>
     </span>        
     
 </h2>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-ts" data-lang="ts"><span class="line"><span class="cl"><span class="kd">let</span> <span class="nx">aircraft</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">node</span><span class="p">.</span><span class="nx">getComponent</span><span class="p">(</span><span class="nx">Aircraft</span><span class="p">)</span> <span class="kr">as</span> <span class="nx">Aircraft</span><span class="p">;</span>
-</span></span></code></pre></div>
+<ul>
+<li>aseprite源码：https://github.com/aseprite/aseprite/releases</li>
+<li>skia: <a href="https://github.com/aseprite/skia/releases" target="_blank">https://github.com/aseprite/skia/releases</a></li>
+<li>CMake：https://cmake.org/download/</li>
+<li>Ninja：https://github.com/ninja-build/ninja/releases</li>
+<li>Microsoft Visual Studio： <a href="https://visualstudio.microsoft.com" target="_blank">https://visualstudio.microsoft.com</a></li>
+<li>git: <a href="https://www.git-scm.com/download/win" target="_blank">https://www.git-scm.com/download/win</a></li>
+</ul>
 
-<h2 class="relative group">动态加载预制 
-    <div id="%E5%8A%A8%E6%80%81%E5%8A%A0%E8%BD%BD%E9%A2%84%E5%88%B6" class="anchor"></div>
+
+<h2 class="relative group">安装各工具 
+    <div id="%E5%AE%89%E8%A3%85%E5%90%84%E5%B7%A5%E5%85%B7" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E5%8A%A8%E6%80%81%E5%8A%A0%E8%BD%BD%E9%A2%84%E5%88%B6" aria-label="锚点">#</a>
+            style="text-decoration-line: none !important;" href="#%E5%AE%89%E8%A3%85%E5%90%84%E5%B7%A5%E5%85%B7" aria-label="锚点">#</a>
     </span>        
     
 </h2>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-ts" data-lang="ts"><span class="line"><span class="cl"><span class="nx">resources</span><span class="p">.</span><span class="nx">load</span><span class="p">(</span><span class="nx">bullet</span><span class="p">.</span><span class="nx">path</span><span class="p">,</span> <span class="nx">Prefab</span><span class="p">,</span> <span class="p">(</span><span class="nx">err</span><span class="p">,</span> <span class="nx">_prefab</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">    <span class="k">if</span> <span class="p">(</span><span class="nx">err</span><span class="p">)</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">        <span class="nx">console</span><span class="p">.</span><span class="nx">error</span><span class="p">(</span><span class="nx">err</span><span class="p">);</span>
-</span></span><span class="line"><span class="cl">        <span class="k">return</span><span class="p">;</span>
-</span></span><span class="line"><span class="cl">    <span class="p">}</span>
-</span></span><span class="line"><span class="cl">    <span class="k">if</span> <span class="p">(</span><span class="nx">_prefab</span><span class="p">)</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">        <span class="c1">// Todo: 对预制进行操作        
-</span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="p">}</span>
-</span></span><span class="line"><span class="cl"><span class="p">});</span>
+
+
+<h3 class="relative group">git 
+    <div id="git" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#git" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<p>按安装包引导安装完毕即可</p>
+<p>也可以参考这里: <a href="/posts/2023/1010-cyber-prenatal-education-install-git/">[赛博胎教] 安装Git</a></p>
+
+
+<h3 class="relative group">CMake 
+    <div id="cmake" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#cmake" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<p>按安装包引导安装完毕即可</p>
+
+
+<h3 class="relative group">Ninja 
+    <div id="ninja" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#ninja" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<p>解压到某个目录然后添加到系统环境变量</p>
+
+
+<h3 class="relative group">Visual Studio 
+    <div id="visual-studio" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#visual-studio" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<p>下载社区版安装，注意要勾选<code>Desktop development with C++ item + Windows 10.0.18362.0 SDK</code></p>
+
+
+<h3 class="relative group">skia 
+    <div id="skia" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#skia" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<p>解压到某个目录待用，本案假定解压到<code>D:\sika</code></p>
+
+
+<h2 class="relative group">开始编译 
+    <div id="%E5%BC%80%E5%A7%8B%E7%BC%96%E8%AF%91" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E5%BC%80%E5%A7%8B%E7%BC%96%E8%AF%91" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<p>打开cmd终端，进入项目根目录，假设项目源代码已经解压到<code>D:\aseprite</code>，假设skia目录为<code>D:\sika</code></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bat" data-lang="bat"><span class="line"><span class="cl"><span class="k">cd</span> D:\aseprite
+</span></span><span class="line"><span class="cl"><span class="k">mkdir</span> build
+</span></span><span class="line"><span class="cl"><span class="k">cd</span> D:\aseprite\build
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">:</span><span class="c1">: 此处需根据当前系统安装Visual Studio的位置来修改，找到VsDevCmd.bat位置即可</span>
+</span></span><span class="line"><span class="cl"><span class="k">call</span> <span class="s2">&#34;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\VsDevCmd.bat&#34;</span> -arch=x64
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">:</span><span class="c1">: 因为将aseprite源码和sika放在了同级位置，所以此处使用了相对路径，也可以根据自己的情况将DSKIA_DIR</span>
+</span></span><span class="line"><span class="cl">cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo -DLAF_BACKEND=skia -DSKIA_DIR=..\..\Skia-Windows-Release-x64 -DSKIA_LIBRARY_DIR=..\..\Skia-Windows-Release-x64\out\Release-x64 -G Ninja ..
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">ninja aseprite
 </span></span></code></pre></div>
+
+<h2 class="relative group">参考资料 
+    <div id="%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<p><a href="https://www.reddit.com/r/PixelArt/comments/i387m1/guide_how_to_build_aseprite_from_source_aseprite/" target="_blank">[GUIDE] How to build Aseprite from source. (Aseprite free &amp; legal)</a></p>
+<p><a href="https://gist.github.com/tigregalis/8bba66b72e876f893d69c0d176afefb6" target="_blank">building aseprite on windows</a></p>
+<p><a href="https://www.bilibili.com/read/cv17245920/" target="_blank">Aseprite 白嫖编译指南</a></p>
+
         </div>
         
         
@@ -764,8 +893,8 @@
           
         
       <script>
-        var oid = "views_posts\\2024\\0425-Cocos-3.x-Basic-Operations-Quick-Reference\\index.md"
-        var oid_likes = "likes_posts\\2024\\0425-Cocos-3.x-Basic-Operations-Quick-Reference\\index.md"
+        var oid = "views_posts\\2024\\0605-Building-Aseprite-on-Windows11\\index.md"
+        var oid_likes = "likes_posts\\2024\\0605-Building-Aseprite-on-Windows11\\index.md"
       </script>
       
       
@@ -785,7 +914,7 @@
       <div class="flex justify-between pt-3">
         <span>
           
-            <a class="flex group mr-3" href="/posts/2023/1010-videoretalking-unboxing-tutorial/">
+            <a class="flex group mr-3" href="/posts/2024/0425-cocos-3.x-basic-operations-quick-reference/">
               <span
                 class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
                 >&larr;</span
@@ -797,11 +926,11 @@
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >VideoReTalking 开箱教程</span
+                  >Cocos 3.x Basic Operations Quick Reference</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
-                    <time datetime="2023-10-23 01:00:00 &#43;0800 CST">23 October 2023</time>
+                    <time datetime="2024-04-25 15:14:17 &#43;0800 CST">25 April 2024</time>
                   
                 </span>
               </span>
@@ -809,28 +938,6 @@
           
         </span>
         <span>
-          
-            <a class="flex text-right group ml-3" href="/posts/2024/0605-building-aseprite-on-windows11/">
-              <span class="flex flex-col">
-                <span
-                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Building Aseprite on my own on Windows 11</span
-                >
-                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-                  
-                    <time datetime="2024-06-05 12:54:31 &#43;0800 CST">5 June 2024</time>
-                  
-                </span>
-              </span>
-              <span
-                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
-                >&rarr;</span
-              >
-              <span
-                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
-                >&larr;</span
-              >
-            </a>
           
         </span>
       </div>
