@@ -828,7 +828,7 @@
     </span>        
     
 </h3>
-<p>解压到某个目录待用，本案假定解压到<code>D:\sika</code></p>
+<p>解压到某个目录待用，本案假定解压到<code>D:\skia</code></p>
 
 
 <h2 class="relative group">开始编译 
@@ -841,7 +841,7 @@
     </span>        
     
 </h2>
-<p>打开cmd终端，进入项目根目录，假设项目源代码已经解压到<code>D:\aseprite</code>，假设skia目录为<code>D:\sika</code></p>
+<p>打开cmd终端，进入项目根目录，假设项目源代码已经解压到<code>D:\aseprite</code>，假设skia目录为<code>D:\skia</code></p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bat" data-lang="bat"><span class="line"><span class="cl"><span class="k">cd</span> D:\aseprite
 </span></span><span class="line"><span class="cl"><span class="k">mkdir</span> build
 </span></span><span class="line"><span class="cl"><span class="k">cd</span> D:\aseprite\build
@@ -849,7 +849,7 @@
 </span></span><span class="line"><span class="cl"><span class="p">:</span><span class="c1">: 此处需根据当前系统安装Visual Studio的位置来修改，找到VsDevCmd.bat位置即可</span>
 </span></span><span class="line"><span class="cl"><span class="k">call</span> <span class="s2">&#34;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\VsDevCmd.bat&#34;</span> -arch=x64
 </span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="p">:</span><span class="c1">: 因为将aseprite源码和sika放在了同级位置，所以此处使用了相对路径，也可以根据自己的情况将DSKIA_DIR</span>
+</span></span><span class="line"><span class="cl"><span class="p">:</span><span class="c1">: 因为将aseprite源码和skia放在了同级位置，所以此处使用了相对路径，也可以根据自己的情况将DSKIA_DIR</span>
 </span></span><span class="line"><span class="cl">cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo -DLAF_BACKEND=skia -DSKIA_DIR=..\..\Skia-Windows-Release-x64 -DSKIA_LIBRARY_DIR=..\..\Skia-Windows-Release-x64\out\Release-x64 -G Ninja ..
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl">ninja aseprite
