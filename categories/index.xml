@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 浮世絵空事</copyright>
-    <lastBuildDate>Tue, 04 Jun 2024 10:50:13 +0800</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2024 12:54:31 +0800</lastBuildDate><atom:link href="https://ukiyoesoragoto.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech</title>
+      <link>https://ukiyoesoragoto.com/categories/tech/</link>
+      <pubDate>Wed, 05 Jun 2024 12:54:31 +0800</pubDate>
+      
+      <guid>https://ukiyoesoragoto.com/categories/tech/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Anime Review</title>
       <link>https://ukiyoesoragoto.com/categories/anime-review/</link>
@@ -24,16 +34,6 @@
       <pubDate>Thu, 25 Apr 2024 15:14:17 +0800</pubDate>
       
       <guid>https://ukiyoesoragoto.com/categories/html-games/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://ukiyoesoragoto.com/categories/tech/</link>
-      <pubDate>Mon, 23 Oct 2023 01:00:00 +0800</pubDate>
-      
-      <guid>https://ukiyoesoragoto.com/categories/tech/</guid>
       <description></description>
       
     </item>
